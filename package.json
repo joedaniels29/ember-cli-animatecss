@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-animate-css",
-  "description": "Include boubon in an ember-cli app",
-  "version": "0.0.5",
+  "description": "Include animate.css in an ember-cli app",
+  "version": "0.0.1",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/yapplabs/ember-cli-animate-css",
+  "repository": "https://github.com/joedaniels29/ember-cli-animate-css",
   "engines": {
     "node": ">= 0.10.0"
   },
