@@ -1,4 +1,4 @@
-# ember-cli-animate.css
+# ember-cli-animatecss
 
 Include animate.css in an ember-cli app.
 
@@ -13,7 +13,7 @@ There ought not be any Dependencies. This addon does not utilize sass.
 ## Usage
 Just install with
 
-    ember install ember-cli-animate-css
+    ember install ember-cli-animatecss
 
 ## Developing this Addon
 

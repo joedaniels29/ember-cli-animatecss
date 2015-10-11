@@ -5,7 +5,7 @@ var mergeTrees = require('broccoli-merge-trees');
 var pickFiles = require('broccoli-static-compiler');
 
 module.exports = {
-  name : 'ember-cli-animate-css',
+  name : 'ember-cli-animatecss',
   afterInstall : function() {
     return this.addBowerPackageToProject('animate.css');
   },
