@@ -8,7 +8,9 @@ module.exports = function(defaults) {
   // app.import(app.bowerDirectory + '/bootstrap/dist/css/bootstrap.css.map', {
   // destDir: 'assets'
   // });
-  app.import(app.bowerDirectory + '/animate.css/index.js');
-
+  app.import({
+    development: app.bowerDirectory + '/animate.css/animate.css',
+    production: app.bowerDirectory + '/animate.css/animate.css.min'
+    });
   return app.toTree();
 };
