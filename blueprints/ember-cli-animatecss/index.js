@@ -3,5 +3,4 @@ module.exports = {
 
   afterInstall: function() {
     return this.addBowerPackageToProject('animate.css');
-  }
-};
+  
