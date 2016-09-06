@@ -1,28 +1,25 @@
-# ember-cli-animatecss
+# Ember-cli-animatecss
 
-Include animate.css in an ember-cli app.
+This README outlines the details of collaborating on this Ember addon.
 
-When the addon is installed, it will add animate.css `latest` as
-a bower dependency.
+## Installation
 
-## Dependencies
+* `git clone` this repository
+* `npm install`
+* `bower install`
 
-There ought not be any Dependencies. This addon does not utilize sass.
-
-
-## Usage
-Just install with
-
-    ember install ember-cli-animatecss
-
-## Developing this Addon
+## Running
 
 * `ember server`
-* Visit the dummy app at http://localhost:4200.
+* Visit your app at http://localhost:4200.
 
 ## Running Tests
 
 * `ember test`
 * `ember test --server`
+
+## Building
+
+* `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
